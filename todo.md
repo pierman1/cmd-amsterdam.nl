@@ -69,6 +69,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   Save images as WEBP https://developers.google.com/speed/webp/gallery1
 
 ### Perceived Performance
 
