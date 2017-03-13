@@ -5,7 +5,6 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
-*   Store PDF files on https://aws.amazon.com/s3/
 
 ## HTTP optimisation
 
@@ -56,6 +55,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   - Avoid blocking scripts, so use defer/async or put your code at the bottom 
 
 ### Fonts
 *   Subset fonts using fontsquirrel
