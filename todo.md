@@ -61,6 +61,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   Serve Scaled Images 
 
 ### Perceived Performance
 
